@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "74ec0710243241c15694d7c69fa8191c",
+    "revision": "6dacad59fd573bb9ae3d1978c03d1d9d",
     "url": "/samsnacksadmin/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samsnacksadmin/static/css/2.fa4dfd76.chunk.css"
   },
   {
-    "revision": "eeca9e4db0828227bcfa",
+    "revision": "b2a8b2a29974ea3e3255",
     "url": "/samsnacksadmin/static/css/main.2b6800e3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samsnacksadmin/static/js/2.d76ae816.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eeca9e4db0828227bcfa",
-    "url": "/samsnacksadmin/static/js/main.31e02b81.chunk.js"
+    "revision": "b2a8b2a29974ea3e3255",
+    "url": "/samsnacksadmin/static/js/main.2737f31d.chunk.js"
   },
   {
     "revision": "f95b55ffaa902dc9fe6d",
