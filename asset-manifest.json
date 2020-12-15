@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/samsnacksadmin/static/css/main.2b6800e3.chunk.css",
-    "main.js": "/samsnacksadmin/static/js/main.7ff02fe8.chunk.js",
-    "main.js.map": "/samsnacksadmin/static/js/main.7ff02fe8.chunk.js.map",
+    "main.js": "/samsnacksadmin/static/js/main.4cf5ad5d.chunk.js",
+    "main.js.map": "/samsnacksadmin/static/js/main.4cf5ad5d.chunk.js.map",
     "runtime-main.js": "/samsnacksadmin/static/js/runtime-main.a97e76c0.js",
     "runtime-main.js.map": "/samsnacksadmin/static/js/runtime-main.a97e76c0.js.map",
     "static/css/2.fa4dfd76.chunk.css": "/samsnacksadmin/static/css/2.fa4dfd76.chunk.css",
-    "static/js/2.d76ae816.chunk.js": "/samsnacksadmin/static/js/2.d76ae816.chunk.js",
-    "static/js/2.d76ae816.chunk.js.map": "/samsnacksadmin/static/js/2.d76ae816.chunk.js.map",
+    "static/js/2.8d8101ed.chunk.js": "/samsnacksadmin/static/js/2.8d8101ed.chunk.js",
+    "static/js/2.8d8101ed.chunk.js.map": "/samsnacksadmin/static/js/2.8d8101ed.chunk.js.map",
     "index.html": "/samsnacksadmin/index.html",
-    "precache-manifest.54cc6c67e99d3922f184fbf7fab48632.js": "/samsnacksadmin/precache-manifest.54cc6c67e99d3922f184fbf7fab48632.js",
+    "precache-manifest.f205e62e9f70ec222560a7a570b17feb.js": "/samsnacksadmin/precache-manifest.f205e62e9f70ec222560a7a570b17feb.js",
     "service-worker.js": "/samsnacksadmin/service-worker.js",
     "static/css/2.fa4dfd76.chunk.css.map": "/samsnacksadmin/static/css/2.fa4dfd76.chunk.css.map",
     "static/css/main.2b6800e3.chunk.css.map": "/samsnacksadmin/static/css/main.2b6800e3.chunk.css.map",
-    "static/js/2.d76ae816.chunk.js.LICENSE.txt": "/samsnacksadmin/static/js/2.d76ae816.chunk.js.LICENSE.txt",
+    "static/js/2.8d8101ed.chunk.js.LICENSE.txt": "/samsnacksadmin/static/js/2.8d8101ed.chunk.js.LICENSE.txt",
     "static/media/IMG-20200929-WA0027.jpg": "/samsnacksadmin/static/media/IMG-20200929-WA0027.41c2cce3.jpg",
     "static/media/IMG-20200929-WA0028.jpg": "/samsnacksadmin/static/media/IMG-20200929-WA0028.75d56654.jpg",
     "static/media/IMG-20200929-WA0029.jpg": "/samsnacksadmin/static/media/IMG-20200929-WA0029.28002ab9.jpg",
@@ -39,8 +39,8 @@
   "entrypoints": [
     "static/js/runtime-main.a97e76c0.js",
     "static/css/2.fa4dfd76.chunk.css",
-    "static/js/2.d76ae816.chunk.js",
+    "static/js/2.8d8101ed.chunk.js",
     "static/css/main.2b6800e3.chunk.css",
-    "static/js/main.7ff02fe8.chunk.js"
+    "static/js/main.4cf5ad5d.chunk.js"
   ]
 }
