@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/samsnacksadmin/static/css/main.2b6800e3.chunk.css",
-    "main.js": "/samsnacksadmin/static/js/main.cb40edbd.chunk.js",
-    "main.js.map": "/samsnacksadmin/static/js/main.cb40edbd.chunk.js.map",
+    "main.js": "/samsnacksadmin/static/js/main.d7c1ca99.chunk.js",
+    "main.js.map": "/samsnacksadmin/static/js/main.d7c1ca99.chunk.js.map",
     "runtime-main.js": "/samsnacksadmin/static/js/runtime-main.a97e76c0.js",
     "runtime-main.js.map": "/samsnacksadmin/static/js/runtime-main.a97e76c0.js.map",
     "static/css/2.fa4dfd76.chunk.css": "/samsnacksadmin/static/css/2.fa4dfd76.chunk.css",
     "static/js/2.fa72552c.chunk.js": "/samsnacksadmin/static/js/2.fa72552c.chunk.js",
     "static/js/2.fa72552c.chunk.js.map": "/samsnacksadmin/static/js/2.fa72552c.chunk.js.map",
     "index.html": "/samsnacksadmin/index.html",
-    "precache-manifest.3b616ce49121ca27fbb0c29272d0a44a.js": "/samsnacksadmin/precache-manifest.3b616ce49121ca27fbb0c29272d0a44a.js",
+    "precache-manifest.c4b0a84aa1abd3a055bf337652ac42de.js": "/samsnacksadmin/precache-manifest.c4b0a84aa1abd3a055bf337652ac42de.js",
     "service-worker.js": "/samsnacksadmin/service-worker.js",
     "static/css/2.fa4dfd76.chunk.css.map": "/samsnacksadmin/static/css/2.fa4dfd76.chunk.css.map",
     "static/css/main.2b6800e3.chunk.css.map": "/samsnacksadmin/static/css/main.2b6800e3.chunk.css.map",
@@ -41,6 +41,6 @@
     "static/css/2.fa4dfd76.chunk.css",
     "static/js/2.fa72552c.chunk.js",
     "static/css/main.2b6800e3.chunk.css",
-    "static/js/main.cb40edbd.chunk.js"
+    "static/js/main.d7c1ca99.chunk.js"
   ]
 }
